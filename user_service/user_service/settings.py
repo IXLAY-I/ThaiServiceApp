@@ -64,10 +64,10 @@ WSGI_APPLICATION = 'user_service.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'db_b3j1',
-        'USER': 'ratthanan',
-        'PASSWORD': 'bk8pMRKZWs1Kg7PgQCKtREGkgFCDnHPB',
-        'HOST': 'dpg-d0ica4muk2gs73a3qdlg-a.oregon-postgres.render.com',
+        'NAME': 'db_ww4e',
+        'USER': 'thaiservice',
+        'PASSWORD': 'IOh9tLZgyf2eCilFdNt9rQtoSfWKlcfo',
+        'HOST': 'dpg-d0j2m53e5dus73aflrk0-a',
         'PORT': '5432',
     }
 }
